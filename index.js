@@ -4,5 +4,7 @@ function takeANumber(line, person) {
 }
 
 function nowServing(line) {
-  
+  if (line.length === 0) {
+    
+  }
 }
