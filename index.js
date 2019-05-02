@@ -20,6 +20,6 @@ function currentLine(line) {
       lineList += i + 1;
       lineList += ". " + line[i] + ", ";
     }
-    return `The line is currently: ${lineList}.`;
+    return `The line is currently: ${lineList}`;
   }
 }
