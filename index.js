@@ -17,6 +17,7 @@ function currentLine(line) {
   } else {
     var lineList = "";
     for (var i = 0; i < line.length; i++) {
+      
     }
     return `The line is currently: ${lineList}.`;
   }
