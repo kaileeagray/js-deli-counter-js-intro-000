@@ -3,6 +3,6 @@ function takeANumber(line, person) {
   return `Welcome, ${person}. You are number ${line.indexOf(person)+1} in line.`
 }
 
-function nowServing() {
+function nowServing(line) {
 
 }
