@@ -1,3 +1,3 @@
-function takeANumber(line,) {
-
+function takeANumber(line, person) {
+  
 }
